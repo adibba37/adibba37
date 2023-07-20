@@ -1,4 +1,4 @@
-![Hydrammeh DIbba]("C:\Users\adibb\Downloads\adibba.png")
+![Hydrammeh DIbba](https://github.com/adibba37/adibba37/blob/main/adibba.png)
 
 
 # Hydrammeh Dibba
