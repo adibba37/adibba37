@@ -7,15 +7,17 @@ Data Analyst and ML 👩‍💼
 ## Introduction
 Hello there! 👋 I'm Hydrammeh Dibba and live in Jena, Germany, a passionate and results-driven Data Analyst with a proven track record of transforming raw data into actionable insights that drive business profitability. My mission is to uncover hidden patterns, identify opportunities, and make data-driven decisions that directly impact the bottom line. As a data enthusiast, I thrive on challenges and enjoy converting complex datasets into meaningful solutions.
 
-## Key Skills 🚀
-|                     |                      |                    |               |                         |
-|---------------------|----------------------|--------------------|---------------|-------------------------|
+  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=adibba37&show_icons=true&theme=radical"/>
+  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibba37&hide_progress=compact"/>
+
+
+
+ ## Key Skills 🚀
 | Data Analysis       | Statistical Analysis | Data Visualization | SQL           | Python or R Programming |
+|---------------------|----------------------|--------------------|---------------|-------------------------|
 | Data Cleaning       | Business Acumen      | Machine Learning   | Data Mining   | Excel                   |
-| Database Management | Communication        | Problem-Solving    | Data Ethics   | Project Management      |
-
-
-<h3 align="left">My Data Analytics Toolkit:</h3>
+| Database Management | Communication       | Problem-Solving    | Data Ethics   | Project Management      |
+<h3 align="left">My Data Analytics Toolkit</h3>
 <p align="left">
   <a href="https://www.python.org" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
@@ -53,12 +55,6 @@ Hello there! 👋 I'm Hydrammeh Dibba and live in Jena, Germany, a passionate an
     <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/>
   </a>
 </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adibba37&show_icons=true&locale=en&layout=compact" alt="adibba37" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adibba37&show_icons=true&locale=en" alt="adibba37" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adibba37&" alt="adibba37" /></p>
 
 
 ## Let's Connect! 🤝
