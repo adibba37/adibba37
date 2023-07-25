@@ -7,11 +7,7 @@ Data Analyst and ML 👩‍💼
 ## Introduction
 Hello there! 👋 I'm Hydrammeh Dibba and live in Jena, Germany, a passionate and results-driven Data Analyst with a proven track record of transforming raw data into actionable insights that drive business profitability. My mission is to uncover hidden patterns, identify opportunities, and make data-driven decisions that directly impact the bottom line. As a data enthusiast, I thrive on challenges and enjoy converting complex datasets into meaningful solutions.
 
-  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api?username=adibba37&show_icons=true&theme=radical"/>
-  <img align="center" width=40% src="https://github-readme-stats.vercel.app/api/top-langs/?username=adibba37&hide_progress=compact"/>
-
-
-
+  
  ## Key Skills 🚀
 | Data Analysis       | Statistical Analysis | Data Visualization | SQL           | Python or R Programming |
 |---------------------|----------------------|--------------------|---------------|-------------------------|
