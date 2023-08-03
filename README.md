@@ -52,6 +52,13 @@ Hello there! 👋 I'm Hydrammeh Dibba and live in Jena, Germany, a passionate an
   </a>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=adibba37&show_icons=true&locale=en&layout=compact" alt="adibba37" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=adibba37&show_icons=true&locale=en" alt="adibba37" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=adibba37&" alt="adibba37" /></p>
+
+
 
 ## Let's Connect! 🤝
 I am enthusiastic about collaborating on data-related projects and continuously expanding my skills. If you want to discuss data, share ideas, or collaborate on exciting projects, feel free to reach out to me via [email](mailto:adibba37@email.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/hydrammeh-dibba-561a12153/).
